@@ -10,7 +10,7 @@ github.com/tomnomnom/httprobe
 github.com/tomnomnom/meg
 github.com/tomnomnom/waybackurls
 github.com/tomnomnom/qsreplace
+github.com/tomnomnom/hacks/filter-resolved
 github.com/lc/gau
 github.com/hakluke/hakrawler
 github.com/1ndianl33t/urlprobe
-github.com/jaeles-project/gospider
