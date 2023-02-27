@@ -1,5 +1,12 @@
 echo ""
 echo -e "\e[32m"
+echo "*** Setting aliasses in .bash_aliases ***"
+echo -e "\e[0m"
+
+echo alias ls=\'ls -la --color\'>/home/kali/.bash_aliases
+
+echo ""
+echo -e "\e[32m"
 echo "*** Adding stuff to .bashrc ***"
 echo -e "\e[0m"
 echo "">> ~/.bashrc
