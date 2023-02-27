@@ -3,7 +3,7 @@ echo -e "\e[32m"
 echo "*** Setting aliasses in .zshrc ***"
 echo -e "\e[0m"
 
-echo alias ls=\'ls -la --color\'>~/.zshrc
+echo alias ls=\'ls -la --color\'>>~/.zshrc
 
 echo ""
 echo -e "\e[32m"
